@@ -1,2 +1,2 @@
-# picturego
-PictureBed
+# PictureGo
+PicBed
