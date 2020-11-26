@@ -1,4 +1,6 @@
 # PicGo
-PicBed for Markdown files
+
+PicBed for Markdown Files
+
 
 ## Enjoy
